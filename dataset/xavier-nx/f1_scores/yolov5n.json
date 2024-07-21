@@ -1,0 +1,17 @@
+[
+    {
+        "model_name": "YOLOv5n",
+        "resolution": "1080p",
+        "f1_score": 0.71
+    },
+    {
+        "model_name": "YOLOv5n",
+        "resolution": "720p",
+        "f1_score": 0.71
+    },
+    {
+        "model_name": "YOLOv5n",
+        "resolution": "480p",
+        "f1_score": 0.7
+    }
+]

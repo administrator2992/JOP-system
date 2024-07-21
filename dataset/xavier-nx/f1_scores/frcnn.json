@@ -1,0 +1,17 @@
+[
+    {
+        "model_name": "FasterCNN-MobileNetV3",
+        "resolution": "1080p",
+        "f1_score": 0.75
+    },
+    {
+        "model_name": "FasterCNN-MobileNetV3",
+        "resolution": "720p",
+        "f1_score": 0.75
+    },
+    {
+        "model_name": "FasterCNN-MobileNetV3",
+        "resolution": "480p",
+        "f1_score": 0.76
+    }
+]

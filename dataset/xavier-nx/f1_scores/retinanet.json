@@ -1,0 +1,17 @@
+[
+    {
+        "model_name": "RetinaNet-Resnet50",
+        "resolution": "1080p",
+        "f1_score": 0.79
+    },
+    {
+        "model_name": "RetinaNet-Resnet50",
+        "resolution": "720p",
+        "f1_score": 0.8
+    },
+    {
+        "model_name": "RetinaNet-Resnet50",
+        "resolution": "480p",
+        "f1_score": 0.8
+    }
+]

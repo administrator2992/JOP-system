@@ -1,0 +1,17 @@
+[
+    {
+        "model_name": "EfficientDet-D0",
+        "resolution": "1080p",
+        "f1_score": 0.45
+    },
+    {
+        "model_name": "EfficientDet-D0",
+        "resolution": "720p",
+        "f1_score": 0.45
+    },
+    {
+        "model_name": "EfficientDet-D0",
+        "resolution": "480p",
+        "f1_score": 0.44
+    }
+]
